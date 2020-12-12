@@ -1,1 +1,1 @@
-用于测试 Spring Cloud Config
+测试 Spring Cloud Config
